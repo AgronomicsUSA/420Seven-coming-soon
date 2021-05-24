@@ -31,7 +31,7 @@
 		--  3.9 Hero Config [ Mesh Background ]
 		--  3.10 Hero Config [ Space Background ]
 		--  3.11 Hero Config [ Abstract Background ]
-        --  3.12 Hero Config [ Glitch Background ]
+		--  3.12 Hero Config [ Glitch Background ]
 		--  3.13 Hero Config [ Custom Background ]
 		
 	--  4. Google Analytics
